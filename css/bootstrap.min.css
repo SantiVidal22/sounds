@@ -300,6 +300,9 @@ button:focus {
   outline: dotted 1px;
   outline: -webkit-focus-ring-color auto 5px;
 }
+ul li a{
+  text-transform: uppercase;
+}
 button,
 input,
 optgroup,
