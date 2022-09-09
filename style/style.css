@@ -3,13 +3,14 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
+    list-style-type: none
 }
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 @import url('//db.onlinewebfonts.com/c/164a60c2e090248befbcf32fdd5af386?family=LuloCleanOne-Bold');
 @font-face{
     font-family: 'Lulo';
-    src: url(../fonts/FontsFree-Net-Lulo-Clean-W01-One-Bold.ttf);
+    src: url('../fonts/FontsFree-Net-Lulo-Clean-W01-One-Bold.ttf');
 }
 nav{
     background-color: transparent;
@@ -34,4 +35,4 @@ ul li a{
 .drop{
     box-shadow: 6px 6px 10px #000;
 }
-.text {   text-shadow: 0 0 10px rgba(0, 0, 0, 0.377); }
+.text {   text-shadow: 0 0 10px rgba(0, 0, 0, 0.349); }
